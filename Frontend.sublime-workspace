@@ -1,0 +1,1014 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"id",
+				"list-dc	list-style-type: decimal;"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"background-",
+				"background-attachment"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"remot",
+				"remote_data"
+			],
+			[
+				"remo",
+				"remote_base_url"
+			],
+			[
+				"remote",
+				"remote_base_url"
+			],
+			[
+				"lib",
+				"lib_mcl_dict"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!--- Questo è un commento -->\n<!DOCTYPE html>\n<html>\n<head>\n<!--- Qua ci vanno i Metadati -->\n	<title>Polarizzazione</title>\n	<meta name=\"author\" content=\"Michele Maresca\">\n	<meta name=\"description\" content=\"Sono qui per studiare lo sviluppo Front-End e Backend. E ci riusicirò in questa vita o nell'altra\">\n	<meta charset=\"utf-8\">\n	<meta property=\"og:image\" content=\"https://developer.cdn.mozilla.net/static/img/opengraph-logo.dc4e08e2f6af.png\">\n	<meta property=\"og:description\" content=\"The Mozilla Developer Network (MDN) provides\n	information about Open Web technologies including HTML, CSS, and APIs for both Web sites\n	and HTML5 Apps. It also documents Mozilla products, like Firefox OS.\">\n	<meta property=\"og:title\" content=\"Mozilla Developer Network\">\n</head>\n<body>\n<!--- Qua ci vanno i contenuti -->\n	<h1>LA POLAZIZZAZIONE</h1>\n	<h2>La lente polarizzata e la polarizzazione di un’onda</h2>\n	<p>La lente polarizzata (figura 1a, 1b, 1c) satura i colori, controlla i riflessi e risulta molto utile nella maggior parte delle situazioni di ripresa.<br>\n	È uno dei pochi filtri che non si\n    può simulare via software.</p>\n    <h3>Conseguenze</h3>\n    <h6>Alto testo</h6>\n    <p>Ogni quadrato forma un cerchio</p>\n	<p>Ogni quadrato forma un cerchio</p>\n    <p>Ogni quadrato forma un cerchio</p>\n    <p>Ogni quadrato forma un cerchio</p>\n    <p>Ogni quadrato forma un cerchio</p>\n    <p><i>Lorem Ipsum</i> <strong>Ciao</strong> dolor sit amet, consectetur adipiscing elit. Fusce imperdiet felis nec nibh sodales, quis condimentum mauris efficitur. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mauris nisl, molestie vel mauris nec, ullamcorper blandit dui. Etiam felis velit, elementum eget interdum nec, viverra sed ligula. Fusce quis ipsum sed sem commodo volutpat ac porttitor justo. Etiam eget felis nunc. Nam sed cursus velit. Donec porta vel nunc vitae ultricies. Donec eget arcu neque. Vestibulum lacus mauris, ultricies at metus vitae, scelerisque pretium eros. Donec sed risus ac magna blandit euismod ac dignissim leo.</p>\n    <h4>Una lista di elementi comple</h4>\n    <ol>\n    	<li>Primo elemento</li>\n    	<li>Secondo elemento</li>\n    	<li>Terzo elemento\n    		<ul>\n    			<li>Ter.1</li>\n    			<li>Ter.2\n    				<ul>\n    					<i>\n	    					<li>Ter.2.1</li>\n	    					<li>Ter.2.2</li>\n	    					<li>Ter.2.3</li>\n	    				</i>\n    				</ul>\n    			</li>\n    		</ul>\n    	</li>\n    </ol>\n    <ul>\n    	<li><strong>Primo elemento</strong></li>\n    	<li>Secondo elemento</li>\n    	<li>Terzo elemento</li>\n    </ul>\n</body>\n</html>",
+			"file": "index.html",
+			"file_size": 2586,
+			"file_write_time": 131454829855029297,
+			"settings":
+			{
+				"buffer_size": 2568,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"UTF-8\">\n	<title>Table</title>\n</head>\n<body>\n	<table border=\"1\">\n		<thead>\n			<tr>\n				<th>Name</th>\n				<th>Age</th>\n			</tr>	\n		</thead>\n		<tbody>\n			<tr>\n				<td>Rob</td>\n				<td>2</td>\n			</tr>\n			<tr>\n				<td>Trevor</td>\n				<td>12</td>\n			</tr>\n			\n		</tbody>\n		\n	</table>\n</body>\n</html>",
+			"file": "table.html",
+			"file_size": 375,
+			"file_write_time": 131464126043828125,
+			"settings":
+			{
+				"buffer_size": 350,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "demo.html",
+			"settings":
+			{
+				"buffer_size": 809,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pagina2.html",
+			"settings":
+			{
+				"buffer_size": 203,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Esercizio2/index.html",
+			"settings":
+			{
+				"buffer_size": 454,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "LA POLARIZZAZIONE\nLa lente polarizzata e la polarizzazione di un’onda\nLa lente polarizzata (figura 1a, 1b, 1c) satura i colori, controlla i riflessi e risulta molto\nutile nella maggior parte delle situazioni di ripresa. È uno dei pochi filtri che non si\npuò simulare via software.",
+			"settings":
+			{
+				"buffer_size": 280,
+				"line_ending": "Windows",
+				"name": "LA POLARIZZAZIONE"
+			}
+		},
+		{
+			"file": "Esercizio1/index.html",
+			"settings":
+			{
+				"buffer_size": 691,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nEmmet\n-----\n\n  Thank you for installing Emmet -- a toolkit that can greatly improve your workflow. Note that this plugin automatically downloads and installs PyV8 binary (see status bar message). \n  \n  ******************************\n  Please restart editor \n  to finish installation process \n  after PyV8 was downloaded.\n  ******************************\n  \n  Tab key handler\n  ==========================\n  \n  By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.\n  \n  Please read https://github.com/sergeche/emmet-sublime#tab-key-handler about how Tab handler works and how to tweak its behavior to match your needs.\n  \n  Enter key\n  ==========================\n  \n  In HTML and XML documents, Emmet overrides Enter key to insert formatted line breaks between opening and closing tags. In some cases it will break character input (for example, in Japanese language).\n  \n  To disable Enter key handler, simply add the following option in your user's Preferences file:\n  \n  \"disable_formatted_linebreak\": true\n  \n  Actions shortcuts\n  ==========================\n  \n  Emmet has a number of actions with keyboard shortcuts that may override ones you're using commonly (for example, Ctrl-E or Ctrl-Down). Please read the project main page to get list of available actions and keyboard shortcuts and how to disable them:\n  https://github.com/sergeche/emmet-sublime\n  \n  Documentation and examples:\n  http://emmet.io\n  \n  ------------------------------\n  Follow me on Twitter: @emmetio\n  ------------------------------\n",
+			"settings":
+			{
+				"buffer_size": 1688,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"UTF-8\">\n	<title>Tabella Pokemon</title>\n</head>\n<body>\n	<h1>Prima Generazione</h1>\n	<table border=\"1\">\n		<thead>\n			<th>Immagine</th>\n			<th>Nome</th>\n			<th>Tipo</th>\n			<th>Evoluzione</th>\n		</thead>\n		<tbody>\n		<!-- Bulbasaur -->\n			<tr>\n				<td><img width=\"50\" src=\"https://vignette4.wikia.nocookie.net/pokemon/images/2/21/001Bulbasaur.png/revision/latest/scale-to-width-down/200?cb=20140328190757\" alt=\"Bulbasaur\"></td>\n				<td>Bulbasaur</td>\n				<td>Erba/Veleno</td>\n				<td><a href=\"http://pokemon.wikia.com/wiki/Ivysaur\">Ivysaur</a></td>\n			</tr>\n		<!-- Charmander -->\n			<tr>\n				<td><img width=\"50\" src=\"https://vignette2.wikia.nocookie.net/pokemon/images/7/73/004Charmander.png/revision/latest/scale-to-width-down/200?cb=20140724195345\" alt=\"Charmander\"></td>\n				<td>Charmander</td>\n				<td>Fuoco</td>\n				<td><a href=\"http://pokemon.wikia.com/wiki/Charmeleon\">Charmeleon</a></td>\n			</tr>\n		<!-- Squirtle -->\n			<tr>\n				<td><img width=\"50\" src=\"https://vignette2.wikia.nocookie.net/pokemon/images/3/39/007Squirtle.png/revision/latest/scale-to-width-down/200?cb=201403281915257\" alt=\"Squirtle\"></td>\n				<td>Squirtle</td>\n				<td>Acqua</td>\n				<td><a href=\"http://pokemon.wikia.com/wiki/Wartortle\">Wartortle</a></td>\n			</tr>\n		</tbody>\n	</table>\n</body>\n</html>",
+			"file": "Esercizio3/index.html",
+			"file_size": 1417,
+			"file_write_time": 131464135758300781,
+			"settings":
+			{
+				"buffer_size": 1332,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "form1.html",
+			"settings":
+			{
+				"buffer_size": 295,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "email_val.html",
+			"settings":
+			{
+				"buffer_size": 532,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "inputs.html",
+			"settings":
+			{
+				"buffer_size": 619,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "EsercizioForm/index.html",
+			"settings":
+			{
+				"buffer_size": 5825,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 304,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "todolist.html",
+			"settings":
+			{
+				"buffer_size": 449,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "selector.html",
+			"settings":
+			{
+				"buffer_size": 639,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/selector.css",
+			"settings":
+			{
+				"buffer_size": 439,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/todo.css",
+			"settings":
+			{
+				"buffer_size": 142,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css_begin.html",
+			"settings":
+			{
+				"buffer_size": 483,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"PAc",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Michele/FrontEnd/Esercizio4/index.html",
+		"/C/Users/Michele/FrontEnd/Esercizio3/index.html",
+		"/C/Users/Michele/Desktop/ruby/sample.txt",
+		"/C/Users/Michele/Desktop/ruby/record.csv",
+		"/C/Users/Michele/Desktop/ruby/hush.rb",
+		"/C/Users/Michele/Desktop/ruby/array2.rb",
+		"/C/Users/Michele/Desktop/ruby/array1.rb",
+		"/C/Users/Michele/Desktop/ruby/files_4.rb",
+		"/C/Users/Michele/Desktop/ruby/espr.rb",
+		"/C/Users/Michele/Desktop/ruby/read3.rb",
+		"/C/Users/Michele/Desktop/ruby/blocks.rb",
+		"/C/Users/Michele/Desktop/ruby/string.rb",
+		"/C/Users/Michele/Desktop/ruby/read_file.rb",
+		"/C/Users/Michele/Desktop/ruby/module.rb",
+		"/C/Users/Michele/Desktop/ruby/tutorial2.rb",
+		"/C/Users/Michele/Desktop/index.html",
+		"/C/Users/Michele/Desktop/ruby/wikipedia.rb",
+		"/C/Users/Michele/Desktop/python/main.py",
+		"/C/Users/Michele/Desktop/python/lib_mcl_dict.py",
+		"/C/Users/Michele/Desktop/python/fib.py",
+		"/C/Users/Michele/Desktop/git_rep/web_semantico/michele2.xml",
+		"/C/Users/Michele/Desktop/git_rep/web_semantico/michele.xml",
+		"/C/Users/Michele/Desktop/git_rep/web_semantico/dati.txt",
+		"/C/Users/Michele/Desktop/git_rep/web_semantico/libro.xml"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h1",
+			"	",
+			"\n		",
+			"			",
+			"\n		",
+			"	",
+			"		",
+			">\n",
+			"li",
+			"required",
+			"value",
+			"text",
+			"label",
+			"		<",
+			"value=",
+			"value=\"GIALLO\"",
+			"O",
+			"GIALLO",
+			"select",
+			"Rosso",
+			"  ",
+			" </",
+			"\"> ",
+			"\"></",
+			">\n",
+			">",
+			"\" ",
+			"\">\n",
+			"SD",
+			"get",
+			"	<input type=\"color\">\n",
+			"\">\n",
+			"			<th>Name</th>\n",
+			"inspect",
+			"ontologie",
+			"\n",
+			">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 16,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2568,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2552,
+								811
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "table.html",
+					"settings":
+					{
+						"buffer_size": 350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								307
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "demo.html",
+					"settings":
+					{
+						"buffer_size": 809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								517,
+								517
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pagina2.html",
+					"settings":
+					{
+						"buffer_size": 203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								162,
+								162
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Users\\Michele\\FrontEnd",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Esercizio2/index.html",
+					"settings":
+					{
+						"buffer_size": 454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								363,
+								363
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"settings":
+					{
+						"buffer_size": 280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								280
+							]
+						],
+						"settings":
+						{
+							"auto_name": "LA POLARIZZAZIONE",
+							"default_dir": "C:\\Users\\Michele\\FrontEnd",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Esercizio1/index.html",
+					"settings":
+					{
+						"buffer_size": 691,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"settings":
+					{
+						"buffer_size": 1688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1585,
+								1570
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"tab_width": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Esercizio3/index.html",
+					"settings":
+					{
+						"buffer_size": 1332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								309,
+								309
+							],
+							[
+								653,
+								653
+							],
+							[
+								998,
+								998
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 71.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "form1.html",
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								295
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "email_val.html",
+					"settings":
+					{
+						"buffer_size": 532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								344,
+								344
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "inputs.html",
+					"settings":
+					{
+						"buffer_size": 619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								514,
+								514
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "EsercizioForm/index.html",
+					"settings":
+					{
+						"buffer_size": 5825,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1064,
+								1064
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								205,
+								205
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "todolist.html",
+					"settings":
+					{
+						"buffer_size": 449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								338,
+								338
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "selector.html",
+					"settings":
+					{
+						"buffer_size": 639,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "css/selector.css",
+					"settings":
+					{
+						"buffer_size": 439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								439,
+								439
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 139.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "css/todo.css",
+					"settings":
+					{
+						"buffer_size": 142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Users\\Michele\\FrontEnd\\css",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "css_begin.html",
+					"settings":
+					{
+						"buffer_size": 483,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								90,
+								136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"demo.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Michele/workspaceGo/go.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

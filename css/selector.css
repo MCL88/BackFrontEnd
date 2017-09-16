@@ -1,0 +1,55 @@
+/*Elementi*/
+li
+{
+
+}
+
+/*Classi*/
+.class
+
+/*ID*/
+
+#id
+{
+
+}
+
+/*Tutti*/
+
+*
+{
+	border: 1px dotted lightgrey
+}
+
+/*Selettori di discendenza*/
+
+li a
+{
+	color: red;
+}
+
+/*Selettori di Adiacenza*/
+
+/*invertendo gli addendi viene cambiato l'elemento a cui viene
+applicata la regola css*/
+h4 + ul
+{
+	border: 4px solid red;
+}
+
+ul + h4
+{
+	border: 4px solid green;
+}
+/*Selettore di attributi*/
+
+a[href="https://www.google.it"]
+{
+	background-color: blue
+}
+
+/*n-th Selettore*/
+
+ul:nth-of-type(3){
+	background-color: rgba(0,110,12,.4);
+}

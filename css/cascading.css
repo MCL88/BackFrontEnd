@@ -1,0 +1,19 @@
+body
+{
+	color: red;
+}
+
+ul
+{
+	color: blue;
+}
+
+.highlight
+{
+	color:rgba(0,0,200,.4);
+}
+
+#special
+{
+	color:lightblue;
+}

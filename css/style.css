@@ -1,0 +1,36 @@
+/*
+* Palette colori utilizzata
+*
+* rgb(204, 255, 217) body
+* rgb(117, 189, 117)  h4
+*   testi
+*
+*/
+
+
+body
+{
+	background-color: rgb(204, 255, 217)
+}
+
+*
+{
+	color:	rgb(37, 118, 10);
+}
+
+h1
+{
+	color: rgba(0,120,0, 0.6);
+	font-size: 64px;
+	border: solid 2px;
+}
+
+h4
+{
+	font-size: 16px
+}
+
+li
+{
+	color: yellow;
+}
