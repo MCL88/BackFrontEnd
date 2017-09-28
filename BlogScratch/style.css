@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,800&subset=cyrillic');
+
+*
+{
+    padding: 0 0;
+    margin: 0 auto;
+}
+
+div#main
+{
+    
+    border: 20px solid;
+    border-color: #f1f1f1 #a1a1a1;
+    width:50%;
+}
+
+div#main>div.post
+{
+    font-size: 16;
+    font-family: "Open Sans", sans-serif;
+}
+
+h2
+{
+    font-size: 1.6em;
+    font-weight: 800;
+    margin-bottom: 20px;
+    margin-left: 3%;
+}
+
+h3
+{
+    font-size: 1.4em;
+    font-weight: 800;
+    color: lightskyblue;
+    text-transform: uppercase;
+    margin:3%;
+}
+
+
+div#main>div p
+{
+    margin: 3%;
+}
+
+div#main>div p:first-of-type
+{
+    border-left: 3px solid #00F189;
+    padding-left: 1.6%;
+}
+
+hr
+{
+    margin: 3%;
+    border-style: none;
+    border-bottom: 2px solid gray;
+}

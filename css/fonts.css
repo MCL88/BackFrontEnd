@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Amiri');
+
+
+body
+{
+    font-size: 10px;
+}
+
+p
+{
+    font-family: "Arial";
+    font-size: 2em;
+}
+
+h1
+{
+    font-family: "Amiri", serif;
+    font-size: 5em;
+}
+
+span
+{
+    /*em serve raddoppiare un elemento in funzione all'elemento principale
+    Se p ha 20px di font-size questo span ne ha 40px*/
+    font-size: 2.0em;
+}
+
+span#special
+{
+    /*em serve raddoppiare un elemento in funzione all'elemento principale
+    Se p ha 20px di font-size questo span ne ha 40px*/
+    font-size: 0.4em;
+}
+
+/* font-weigth */
+
+p
+{
+    font-weight: 800;
+}
+
+/* line-height */
+
+p
+{
+    line-height: 1.5;
+}
+
+/* text-align */
+
+h1 , p
+{
+    text-align: center
+}
+
+span
+{
+    text-decoration: underline
+}
+
+span#special
+{
+    text-decoration: line-through;
+    text-decoration-color: red;
+}
+
+h1
+{
+    text-decoration: underline;
+    text-decoration-style: dashed;
+}
